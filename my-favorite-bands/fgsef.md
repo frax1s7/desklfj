@@ -4,7 +4,6 @@
 
 ![Java](https://img.shields.io/badge/lang-Java-orange) ![Markdown](https://img.shields.io/badge/docs-Markdown-blue) ![Status](https://img.shields.io/badge/status-в%20разработке-yellow)
 
-Учебный pet-проект в стиле **«Hello, World!»**, сделанный, чтобы попрактиковаться в Git и Markdown. Вместо абстрактного примера — небольшая витрина групп, которые я слушаю чаще всего.
 
 ---
 
