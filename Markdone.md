@@ -150,7 +150,4 @@ pie
 
 Навигация по документу (якоря)
 
-- [Windows](#windows)
-- [Linux](#linux)
-- [macOS](#macos)
-- [Docker Desktop](#docker-desktop)
+- [YouTube](https://www.youtube.com/watch?v=fdd6XNE8pDQ)
