@@ -42,28 +42,28 @@ chmod +x 10.sh
 ## Скриншоты
 
 ### 1.sh: приветствие
-![1](screenshots/1.png)
+![1](/4/screenshots/Screenshot_1.png)
 
 ### 2.sh: сумма
-![2](screenshots/2.png)
+![2](/4/screenshots/Screenshot_2.png)
 
 ### 3.sh: чётность
-![3](screenshots/3.png)
+![3](/4/screenshots/Screenshot_3.png)
 
 ### 4.sh: структура проекта
-![4](screenshots/4.png)
+![4](/4/screenshots/Screenshot_4.png)
 
 ### 5.sh: счётчик строк
-![5](screenshots/5.png)
+![5](/4/screenshots/Screenshot_5.png)
 
 ### 6.sh: генератор паролей
-![6](screenshots/6.png)
+![6](/4/screenshots/Screenshot_6.png)
 
 ### 7.sh: поиск файлов
-![7](screenshots/7.png)
+![7](/4/screenshots/Screenshot_7.png)
 
-### 10.sh: GitHub Repository Analyzer
-![10](screenshots/10.png)
+### 8.sh: GitHub Repository Analyzer
+![8](/4/screenshots/Screenshot_8.png)
 
 ## Как работает 10.sh
 
