@@ -4,3 +4,4 @@
 - [Исполнмтели любимые](/1/my-favorite-bands/fgsef.md)
 - [Основы Bash_cli](/2/bash_cli.md)
 - [BashScript](/4/README_23.md)
+- [Работа с GIT](/5/git.md)
